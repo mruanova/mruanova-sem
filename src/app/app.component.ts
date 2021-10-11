@@ -35,4 +35,8 @@ export class AppComponent {
   serverless = 'https://en.wikipedia.org/wiki/Serverless_computing';
   net = 'https://en.wikipedia.org/wiki/.net';
   codeReview = 'https://en.wikipedia.org/wiki/Code_review';
+  guestimate = 'https://en.wikipedia.org/wiki/Guesstimate';
+  chicago = 'https://en.wikipedia.org/wiki/Chicago';
+  stakeholders = 'https://en.wikipedia.org/wiki/Project_stakeholder';
+  clientFacing = 'https://en.wikipedia.org/wiki/Client-facing';
 }
