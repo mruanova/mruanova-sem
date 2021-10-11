@@ -1,10 +1,14 @@
 {
   "name": "mruanova-sem",
   "version": "0.0.0",
+  "description": "Career Portfolio Personal Website",
+  "homepage": "https://github.com/mruanova/mruanova-sem",
+  "bugs": "https://github.com/mruanova/mruanova-sem/issues",
+  "license": "UNLICENSED",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
+    "start": "ng serve -o",
+    "build": "ng build --configuration production",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
