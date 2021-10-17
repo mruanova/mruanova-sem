@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  api = 'https://246gg84zg8.execute-api.us-west-2.amazonaws.com/prod/projects';
   ai = 'https://en.wikipedia.org/wiki/Artificial_intelligence';
   agile = 'https://en.wikipedia.org/wiki/Agile_software_development';
   book = 'https://books.google.com/books/about/Estandarización_y_mejora_de_procesos_y.html?id=ipI3HQAACAAJ';
@@ -50,6 +51,7 @@ export class AppComponent {
   test = 'https://en.wikipedia.org/wiki/Test_automation';
   time = 'https://en.wikipedia.org/wiki/Time_management';
   timeZone = 'https://en.wikipedia.org/wiki/Time_zone';
-  title = 'Lead Software Engineer';
+  title = 'Hola!';
   unit = 'https://en.wikipedia.org/wiki/Unit_testing';
+  youtube = 'https://www.youtube.com/channel/UC_HW27YMfrpQeX1v5AijWSQ?sub_confirmation=1';
 }
