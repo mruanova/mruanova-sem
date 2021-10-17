@@ -53,11 +53,14 @@ export class AppComponent {
   sprintPlanning = 'https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_planning';
   stakeholders = 'https://en.wikipedia.org/wiki/Project_stakeholder';
   standUp = 'https://en.wikipedia.org/wiki/Stand-up_meeting';
+  shoplocal = 'https://shoplocal.com/?postalcode=60670';
+  swift = 'https://en.wikipedia.org/wiki/SWIFT_message_types';
   teamLeader = 'https://en.wikipedia.org/wiki/Team_leader';
   test = 'https://en.wikipedia.org/wiki/Test_automation';
   time = 'https://en.wikipedia.org/wiki/Time_management';
   timeZone = 'https://en.wikipedia.org/wiki/Time_zone';
   title = 'Hola!';
+  underwriting = 'https://en.wikipedia.org/wiki/Underwriting';
   unit = 'https://en.wikipedia.org/wiki/Unit_testing';
   youtube = 'https://www.youtube.com/channel/UC_HW27YMfrpQeX1v5AijWSQ?sub_confirmation=1';
 }
