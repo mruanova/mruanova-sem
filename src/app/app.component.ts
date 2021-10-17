@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  ach = 'https://en.wikipedia.org/wiki/Automated_clearing_house';
   api = 'https://246gg84zg8.execute-api.us-west-2.amazonaws.com/prod/projects';
   ai = 'https://en.wikipedia.org/wiki/Artificial_intelligence';
   agile = 'https://en.wikipedia.org/wiki/Agile_software_development';
@@ -20,11 +21,15 @@ export class AppComponent {
   dependencyInjection = 'https://en.wikipedia.org/wiki/Dependency_injection';
   deployments = 'https://en.wikipedia.org/wiki/Software_deployment';
   devops = 'https://en.wikipedia.org/wiki/DevOps';
+  eft = 'https://en.wikipedia.org/wiki/Electronic_funds_transfer';
+  ehr = 'https://en.wikipedia.org/wiki/Electronic_health_record';
+  feedback = 'https://en.wikipedia.org/wiki/360-degree_feedback';
   frontEnd = 'https://en.wikipedia.org/wiki/Front-end_web_development';
   guestimate = 'https://en.wikipedia.org/wiki/Guesstimate';
   grooming = 'https://en.wikipedia.org/wiki/Scrum_(software_development)#Backlog_refinement';
   header = 'Mauricio Ruanova';
   image = 'https://mruanova.com/mau.png';
+  iso = 'https://en.wikipedia.org/wiki/International_Organization_for_Standardization';
   linkedin = 'https://www.linkedin.com/in/mruanova/';
   machine = 'https://en.wikipedia.org/wiki/Machine_learning';
   methodology = 'https://en.wikipedia.org/wiki/Software_development_process';
@@ -39,6 +44,7 @@ export class AppComponent {
   quality = 'https://en.wikipedia.org/wiki/Software_quality';
   saas = 'https://en.wikipedia.org/wiki/Software_as_a_service';
   serverless = 'https://en.wikipedia.org/wiki/Serverless_computing';
+  signage = 'https://en.wikipedia.org/wiki/Digital_signage';
   softSkills = 'https://en.wikipedia.org/wiki/Soft_skills';
   softwareArchitecture = 'https://en.wikipedia.org/wiki/Software_architecture';
   softwareEngineer = 'https://en.wikipedia.org/wiki/Software_engineering';
