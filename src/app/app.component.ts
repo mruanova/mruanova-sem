@@ -40,6 +40,7 @@ export class AppComponent {
   paper = 'https://link.springer.com/chapter/10.1007/11499053_28/';
   perfomanceAppraisal = 'https://en.wikipedia.org/wiki/Performance_appraisal';
   releases = 'https://en.wikipedia.org/wiki/Software_release_life_cycle';
+  react = 'https://reactjs.org';
   retro = 'https://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint_retrospective';
   quality = 'https://en.wikipedia.org/wiki/Software_quality';
   saas = 'https://en.wikipedia.org/wiki/Software_as_a_service';
