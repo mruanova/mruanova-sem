@@ -36,6 +36,7 @@ export class AppComponent {
   microservices = 'https://en.wikipedia.org/wiki/Microservices';
   nearshore = 'https://en.wikipedia.org/wiki/Outsourcing#Nearshoring';
   net = 'https://en.wikipedia.org/wiki/.net';
+  node = 'https://nodejs.org/en/';
   offshore = 'https://en.wikipedia.org/wiki/Offshoring';
   paper = 'https://link.springer.com/chapter/10.1007/11499053_28/';
   perfomanceAppraisal = 'https://en.wikipedia.org/wiki/Performance_appraisal';
