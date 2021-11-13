@@ -60,7 +60,7 @@ export class AppComponent {
   react = 'https://reactjs.org';
   rollup = 'https://www.npmjs.com/package/rollup';
   sops = 'https://github.com/mozilla/sops';
-  stackoveflow = 'https://stackoverflow.com/users/5490782/mruanova/';
+  stackoverflow = 'https://stackoverflow.com/users/5490782/mruanova/';
   storybook = 'https://github.com/storybookjs/storybook/';
   tms = 'https://tms.echo.com';
   tutorial = 'https://youtu.be/v7-MZkz-3BE';
